@@ -1,0 +1,26 @@
+这里是 异常处理的 内容
+
+--------------------------------------------------------------------
+加油！
+
+--------------------------------------------------------------------
+
+com.lihd.a.png						: 一个伤感而又美丽的图片
+com.lihd.b.png						: 一个伤感而又美丽的图片的复制品
+com.lihd.ErrorTest.java				: 编写了两个常见的Error，一个是堆溢出，一个是栈溢出
+com.lihd.ExceptionTest.java			: 异常体系介绍 ，并举例了很多异常
+com.lihd.ExceptionTest1.java		: 异常抓抛模型介绍，与异常处理方式一try-catch用法
+com.lihd.ExceptionTest2.java		: 异常处理方式二throws的介绍，并说了两个注意点
+com.lihd.FinallyTest.java			: 异常处理方式一try-catch-finally的介绍，并提出了一个疑问
+com.lihd.OverrideTest.java			: 举例说明了子类抛出异常的大小不能大于父类
+
+--------------------------------------------------------------------
+
+com.lihd1.Exer.java					: 两个面试题
+com.lihd1.LoveOtherException.java	: 自定义异常继承于Exception
+com.lihd1.LoveYouException.java		: 自定义异常继承于RuntimeException ，介绍了自定义异常的方法
+com.lihd1.NewExceptionTest.java		: 说明了异常也可以是一个普通的对象
+com.lihd1.ThrowExceptionTest.java	: 手动抛出异常的方法
+
+--------------------------------------------------------------------
+

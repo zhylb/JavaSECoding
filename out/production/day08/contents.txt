@@ -1,0 +1,40 @@
+这里是  集合 内容
+
+--------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+
+com.exer.InterviewTest.java			:  面试题以及有意思的题
+com.exer.Person.java					: 
+
+--------------------------------------------------------------------
+
+com.lihd.CollectionMethodTest.java	:
+com.lihd.CollectionTest.java			: Collection-Map集合体系介绍
+com.lihd.ForTest.java					: foreach介绍
+com.lihd.IteratorTest.java			: iterator介绍
+com.lihd.Person.java					: 
+
+--------------------------------------------------------------------
+
+com.lihd1.ListMethodTest.java			: List接口新增方法介绍
+com.lihd1.ListTest.java				: List体系介绍 源码分析
+
+--------------------------------------------------------------------
+
+com.lihd2.Person.java					: 
+com.lihd2.SetTest.java				: set体系介绍 源码分析
+com.lihd2.TreeSetTest.java			: TreeSet介绍
+
+--------------------------------------------------------------------
+
+com.lihd3.CollectionsTest.java		: Collections工具类方法介绍
+com.lihd3.MapMethodTest.java			: map方法介绍
+com.lihd3.MapTest.java				: map体系介绍，源码分析
+com.lihd3.Person.java					: 
+com.lihd3.PropertiesTest.java			: Properties简单示范
+com.lihd3.TreeMapTest.java			: TreeMap介绍
+
+--------------------------------------------------------------------
+

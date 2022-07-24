@@ -1,0 +1,58 @@
+这里是面向对象中的内容
+
+--------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+
+com.exer.InterviewTest.java			: 包装类的面试题 比较有意思 其中有三个单元测试方法
+com.exer.MethodFiledTest.java		: 方法和属性被覆盖的问题
+com.exer.OverwriteTest.java			: 重写和重载的小问题
+
+--------------------------------------------------------------------
+
+com.lihd.Creature.java				: 
+com.lihd.ExtendsTest.java			: 继承 详细说明
+com.lihd.Person.java				: 
+com.lihd.Student.java				: 
+
+--------------------------------------------------------------------
+
+com.lihd1.Person.java				: 
+com.lihd1.PersonTest.java			: 重写的说明
+com.lihd1.Student.java				: 
+
+--------------------------------------------------------------------
+
+com.lihd2.Father.java				: 辅助 superTest
+com.lihd2.InstanceTest.java			: 子类实例化过程
+com.lihd2.Person.java				: 
+com.lihd2.Son.java					: 辅助 superTest
+com.lihd2.Student.java				:
+com.lihd2.SuperTest.java			: super的使用
+
+--------------------------------------------------------------------
+
+com.lihd3.AnimalTest.java			: 证明多态是运行时行为
+com.lihd3.Man.java					: 
+com.lihd3.Person.java				: 
+com.lihd3.PersonTest.java			: 多态的详细说明
+com.lihd3.Woman.java				: 
+
+--------------------------------------------------------------------
+
+com.lihd4.CloneTest.java			: clone方法的测试
+com.lihd4.EqualsTest.java			: equals方法的测试
+com.lihd4.FinalizeTest.java			: finalize方法的测试
+com.lihd4.JUnitTest.java			: 单元测试方法的使用说明
+com.lihd4.ObjectTest.java			: Object的说明
+com.lihd4.ToStringTest.java			: toString方法的说明
+com.lihd4.User.java					: 在这里重写了toString 和 equals
+
+--------------------------------------------------------------------
+
+com.lihd5.WrapperMethodTest.java	: 包装类常用静态方法的测试
+com.lihd5.WrapperTest.java			: 包装类的测试说明 其中有四个单元测试方法
+
+--------------------------------------------------------------------
+

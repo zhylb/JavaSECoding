@@ -1,0 +1,55 @@
+这里是 多线程  内容
+2022年3月8日20:31:48
+--------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+
+com.exer.AnonymousThread.java		: 匿名线程
+com.exer.WindowThreadTest.java		: 方式一实现多线程售票线程不安全
+com.exer.WindowThreadTest1.java	    : 方式二实现多线程售票线程不安全
+
+--------------------------------------------------------------------
+
+com.lihd.PriorityTest.java			: 线程优先级
+com.lihd.ThreadMethodTest.java		: 线程方法介绍
+com.lihd.ThreadTest.java			: 多线程实现方式一
+com.lihd.ThreadTest1.java			: 多线程实现方式二
+
+--------------------------------------------------------------------
+
+com.lihd1.LazyTest.java			: 懒汉式线程安全
+com.lihd1.WindowTest.java			: 实现方式synchronized代码块
+com.lihd1.WindowTest1.java			: 继承方式synchronized代码块
+com.lihd1.WindowTest2.java			: 实现方式synchronized方法
+com.lihd1.WindowTest3.java			: 继承方式synchronized方法
+
+--------------------------------------------------------------------
+
+com.lihd2.DeadLockTest.java		: 死锁演示一
+com.lihd2.DeadLockTest1.java		: 死锁演示二
+com.lihd2.LockTest.java			: java5新增lock锁
+
+--------------------------------------------------------------------
+
+com.lihd3.ClerkerTest.java			: 生产者与消费者（疑问，为什么我失败了）
+com.lihd3.ObjectThreadTest.java	: 三个方法的介绍 wait(),notify(),交替打印
+com.lihd3.ReaderWriterTest.java	: 读者写者
+
+--------------------------------------------------------------------
+
+com.lihd4.a.txt					: 一个文本文件
+com.lihd4.CallableTest.java		: 多线程实现方式三 callable 多线程输出文本内容
+com.lihd4.ThreadPoolTest.java		: 多线程实现方式四 ThreadPool
+
+--------------------------------------------------------------------
+这个模块是仿照Thread,和Runnable类测试用的
+com.oop.Loveable.java				: 
+com.oop.Lover.java					: 
+com.oop.MyLover.java				: 
+com.oop.MyLoverTest.java			: 
+com.oop.OneLover.java				: 
+com.oop.OneLoverTest.java			: 
+
+--------------------------------------------------------------------
+

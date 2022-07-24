@@ -1,0 +1,86 @@
+这里是 IO 内容
+
+--------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+
+com.exer.CopyTest.java						: 
+
+--------------------------------------------------------------------
+
+com.exer.file.a.dat							: 
+com.exer.file.MultiCopy.java					: 
+com.exer.IOUtils.java							: 
+com.exer.IOUtilsTest.java						: 
+com.exer.MultiDownload.java					: 
+
+--------------------------------------------------------------------
+
+com.exer1.IOUtils.java						: 
+com.exer1.MultiCopy.java						: 
+com.exer1.MultiCopyTest.java					: 
+
+--------------------------------------------------------------------
+
+com.lihd.a.txt								: 
+com.lihd.FileMethodTest.java					: 
+com.lihd.FileTest.java						: 
+com.lihd.FileUtils.java						: 
+
+--------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+
+com.lihd1.file.a.txt							: 
+com.lihd1.file.b.txt							: 
+com.lihd1.file.dbcp.txt						: 
+com.lihd1.file.dbcp_gbk.txt					: 
+com.lihd1.file.loveStory.jpg					: 
+com.lihd1.file.sadStory.jpg					: 
+com.lihd1.InputOutputStreamTest.java			: 
+com.lihd1.InputReaderOutputWriterTest.java	: 
+com.lihd1.IOTest.java							: 
+com.lihd1.ReaderWriterTest.java				: 
+
+--------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+
+com.lihd2.file.cons.txt						: 
+com.lihd2.file.data.obj						: 
+com.lihd2.file.dbcp.txt						: 
+com.lihd2.file.loveStory.jpg					: 
+com.lihd2.file.obj.dat						: 
+com.lihd2.file.random.txt						: 
+com.lihd2.file.sadStory.jpg					: 
+com.lihd2.MySerializable.java					: 
+com.lihd2.ObjectStreamTest.java				: 
+com.lihd2.OtherStreamTest.java				: 
+com.lihd2.RandomAcessTest.java				: 
+
+--------------------------------------------------------------------
+
+com.lihd3.des.jpg								: 
+com.lihd3.FilesTest.java						: 
+com.lihd3.OtherJarIOTest.java					: 
+com.lihd3.PathTest.java						: 
+com.lihd3.诺艾尔.jpg								: 
+
+--------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+
+com.lihd4.file.receive.jpg					: 
+com.lihd4.file.url.txt						: 
+com.lihd4.InetAddressTest.java				: 
+com.lihd4.TCP1Test.java						: 
+com.lihd4.TCP2Test.java						: 
+com.lihd4.UDPTest.java						: 
+com.lihd4.URLTest.java						: 
+
+--------------------------------------------------------------------
+

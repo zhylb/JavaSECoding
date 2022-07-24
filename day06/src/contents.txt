@@ -1,0 +1,35 @@
+这里是  内容 
+
+--------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+
+com.exer.StringTest.java					: java值传递
+com.exer.StringUtils.java				: String小算法
+
+--------------------------------------------------------------------
+
+com.exer1.DateQuestionTest.java			: 三天打渔两天晒网 三种方法实现
+
+--------------------------------------------------------------------
+
+com.lihd.StringBufferBuilderTest.java	: 介绍StringBuffer,StringBuilder
+com.lihd.StringConvertTest.java			: String的转换，数字，byte[],char[]
+com.lihd.StringMethodTest.java			: String中的常用方法
+com.lihd.StringTest.java					: String的介绍
+com.lihd.Utils.java						: 网上复制，用于计算地址
+
+--------------------------------------------------------------------
+
+com.lihd1.DateTime8Test.java				: java8之后的时间api
+com.lihd1.DateTimeTest.java				: java8之前的时间api
+
+--------------------------------------------------------------------
+
+com.lihd2.CompareTest.java				: 介绍了Comparable与Comparator
+com.lihd2.OtherClassTest.java			: 其他常用类 System,Math,BigInteger
+com.lihd2.Person.java					: 实现compareTo的类
+
+--------------------------------------------------------------------
+

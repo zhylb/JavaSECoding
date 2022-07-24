@@ -1,0 +1,46 @@
+这里是面向对象上内容
+
+--------------------------------------------------------------------
+目录记录日期 2021年11月9日22:51:53
+不要感恩苦难, 要感恩自己
+--------------------------------------------------------------------
+
+com.lihd.MethodTest.java			: 方法的简介
+com.lihd.OOPTest.java				: 面向对象的初介绍
+com.lihd.PersonTest.java			: 面向对象的思想 及多个对象之间的关系
+com.lihd.PhoneTest.java				: 匿名对象
+com.lihd.UserTest.java				: 局部变量与属性
+
+--------------------------------------------------------------------
+
+com.lihd1.MethodArgsTest.java		: 可变个数形参
+com.lihd1.OverloadTest.java			: 方法的重载
+com.lihd1.RecursionTest.java		: 递归方法(汉诺塔)
+com.lihd1.ValueTransferTest.java	: 值传递(精华)
+
+--------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+
+com.lihd2.A.Num.java				: 这四个类探讨 权限修饰符可见性的问题
+com.lihd2.A.NumTest.java			: 
+com.lihd2.B.OtherNum.java			:
+com.lihd2.B.SonNum.java				:
+
+--------------------------------------------------------------------
+
+com.lihd2.AnimalTest.java			: 封装性
+com.lihd2.JavaBean.java				: JavaBean的知识 记得uml类图哦
+com.lihd2.OrderTest.java			: 对象赋值顺序
+com.lihd2.PersonTest.java			: 构造器的使用
+com.lihd2.UserTest.java				: this关键字的使用
+
+--------------------------------------------------------------------
+
+com.ms.ArrayPrintTest.java			: 数组的打印
+com.ms.Micro.java					: 微软小练习
+com.ms.Test.java					: 打印的练习 貌似是值传递
+
+--------------------------------------------------------------------
+

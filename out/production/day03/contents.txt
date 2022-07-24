@@ -1,0 +1,51 @@
+这里是  内容 
+
+--------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+
+com.exer.Interface8Test.java			: java8接口重名 如何调用不同接口中的同名方法
+com.exer.InterfaceTest1.java			: 一个类的父类和接口中有同名属性
+
+--------------------------------------------------------------------
+
+com.lihd.BlockTest.java				: 代码块的介绍
+com.lihd.FinalTest.java				: final关键字
+com.lihd.LeafTest.java				: 继承关系下代码块执行顺序例题 由父及子，静态先行
+com.lihd.MainTest.java				: Main方法再介绍
+com.lihd.OrderTest.java				: 对象赋值顺序
+com.lihd.Part9.java					: 线程优先顺序，不知道为什么在这
+com.lihd.SingletonTest.java			: 两种单例模式的介绍
+com.lihd.Son.java					: 继承关系下代码块执行顺序例题 由父及子，静态先行
+com.lihd.StaticTest.java				: static关键字
+
+--------------------------------------------------------------------
+
+com.lihd1.AbstractAttention.java		: abstract需要注意的地方
+com.lihd1.AbstractTest.java			: abstract关键字的介绍
+com.lihd1.AnonymousTest.java			: 匿名对象与匿名类的介绍
+com.lihd1.TemplateMethodTest.java	: ，模板设计方法
+com.lihd1.TemplateTest.java			: 模板设计方法求定积分
+
+--------------------------------------------------------------------
+
+com.lihd2.AnonymousTest.java			: 匿名接口
+com.lihd2.InterfaceTest.java			: 接口的介绍
+com.lihd2.PhoneFactoryTest.java		: 工程设计模式，用到了反射
+com.lihd2.ProxyTest.java				: 
+com.lihd2.StaticProxyTest.java		: 
+
+--------------------------------------------------------------------
+
+com.lihd3.InnerClassTest.java		: 
+com.lihd3.InnerClassTest1.java		: 
+com.lihd3.Interface8Test.java		: 
+
+--------------------------------------------------------------------
+
+com.spot.Part9.java					: 
+com.spot.SpotTest.java				: 
+
+--------------------------------------------------------------------
+

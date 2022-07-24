@@ -1,0 +1,44 @@
+这里是 反射 内容
+2022年3月17日23:30:28
+
+--------------------------------------------------------------------
+遗憾 ：怎么动态获取内部类，内部接口 动态代理具体应用场景
+
+--------------------------------------------------------------------
+
+com.exer.PrintClass.java			: 非常牛的一个类，写了好长时间，打印一个类
+com.exer.PrintClassTest.java		: 测试类
+
+--------------------------------------------------------------------
+
+com.lihd.ClassLoaderTest.java		: ClassLoader的理解，classloader处理流
+com.lihd.ClassLoading.java		: 康师傅写的，建议认真看一下
+com.lihd.ClassTest.java			: 获取运行时类四种的方法，Class的理解
+com.lihd.NewInstanceTest.java		: 新建对象的四种方法
+com.lihd.Person.java				: 用于反射的测试
+com.lihd.ReflectionTest.java		: 反射的介绍
+
+--------------------------------------------------------------------
+
+com.lihd1.Father.java				: 父类
+com.lihd1.MyAnnotation.java		: 自定义注解
+com.lihd1.MyInterface.java			: 自定义接口
+com.lihd1.Son.java					: 一个齐全的类，用于反射测试
+
+--------------------------------------------------------------------
+
+com.lihd2.FieldTest.java			: 通过反射打印属性
+com.lihd2.MethodTest.java			: 通过反射打印方法
+com.lihd2.OtherTest.java			: 反射获取其他属性
+com.lihd2.ReflectionTest.java		: （重要）反射调用属性，方法，构造器
+
+--------------------------------------------------------------------
+
+com.lihd3.IPhoneFactory.java		: 静态代理准备
+com.lihd3.PhoneFactory.java		: 静态代理准备
+com.lihd3.ProxyFactory.java		: 动态代理（重要）
+com.lihd3.ProxyFactoryTest.java	: 动态代理测试
+com.lihd3.StaticProxy.java			: 静态代理
+
+--------------------------------------------------------------------
+

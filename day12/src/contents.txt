@@ -1,0 +1,31 @@
+这里是 java8新  内容
+2022年3月18日23:38:08
+--------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+
+com.lihd.FunctionalTest.java			: 函数式接口即lambda表达式介绍
+com.lihd.LambdaTest.java				: lambda表达式介绍
+
+--------------------------------------------------------------------
+
+com.lihd1.MethodRef.java				: 方法引用，构造器引用，数组引用
+com.lihd1.Person.java				: 一个测试类
+
+--------------------------------------------------------------------
+
+com.lihd2.StreamTest.java			: stream 的创建
+com.lihd2.StreamTest1.java			: stream 的中间操作
+com.lihd2.StreamTest2.java			: stream 的终止操作
+
+--------------------------------------------------------------------
+
+com.lihd3.Address.java				: 
+com.lihd3.Country.java				: 
+com.lihd3.OptionalMethodTest.java	: Optional方法测试
+com.lihd3.OptionalTest.java			: Optional引入以及好处
+com.lihd3.User.java					: 
+
+--------------------------------------------------------------------
+
